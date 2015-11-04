@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/vrivas/programming/git/bixlabs/Ionic-App-Template/app/js/controllers'
+let g:netrw_dirhist_2='/home/vrivas/programming/git/bixlabs/Ionic-App-Template/app/scss/news'
+let g:netrw_dirhist_3='/home/vrivas/programming/git/bixlabs/Ionic-App-Template/app/templates/logIn'
+let g:netrw_dirhist_4='/home/vrivas/programming/git/bixlabs/Ionic-App-Template/app/templates/news'
+let g:netrw_dirhist_5='/home/vrivas/programming/git/bixlabs/Ionic-App-Template/.git/branches'
+let g:netrw_dirhist_6='/home/vrivas/programming/git/bixlabs/GPS-Platform'
+let g:netrw_dirhist_7='/home/vrivas/programming/git/bixlabs/Ionic-App-Template/app/scss/customizable'
+let g:netrw_dirhist_8='/home/vrivas/programming/git/bixlabs/Ionic-App-Template/app/scss/customizable/home'
