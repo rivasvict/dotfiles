@@ -1,0 +1,11 @@
+pane	0	0	:nanoc	1	:*	0	:/home/vctr90/programming/git/bix/GPS-Platform	0	bash	:
+pane	0	0	:nanoc	1	:*	1	:/home/vctr90/programming/git/bix/GPS-Platform	0	bash	:
+pane	0	0	:nanoc	1	:*	2	:/home/vctr90/programming/git/bix/GPS-Platform	0	bash	:
+pane	0	0	:nanoc	1	:*	3	:/home/vctr90/programming/git/bix/GPS-Platform	1	nanoc	:/home/vctr90/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                            
+pane	0	0	:nanoc	1	:*	4	:/home/vctr90/programming/git/bix/GPS-Platform	0	nanoc	:/home/vctr90/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                           
+pane	0	2	:vim	0	:-	0	:/home/vctr90/programming/git/bix/GPS-Platform	1	bash	:
+pane	0	2	:vim	0	:-	1	:/home/vctr90/programming/git/bix/GPS-Platform	0	bash	:
+pane	0	2	:vim	0	:-	2	:/home/vctr90/programming/git/bix/GPS-Platform	0	bash	:
+window	0	0	1	:*	74fd,268x73,0,0[268x63,0,0{134x63,0,0,1,133x63,135,0[133x31,135,0,2,133x31,135,32,7]},268x9,0,64{134x9,0,64,3,133x9,135,64,4}]
+window	0	2	0	:-	fab1,268x73,0,0{134x73,0,0[134x36,0,0,5,134x36,0,37,8],133x73,135,0,6}
+state	0	0
