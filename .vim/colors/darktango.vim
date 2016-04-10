@@ -3,15 +3,12 @@
 " Maintainer: Panos Laganakos <panos.laganakos@gmail.com>
 " Version: 0.3
 
-
 set background=dark
-if version > 580
-	" no guarantees for version 5.8 and below, but this makes it stop
-	" complaining
-	hi clear
-	if exists("syntax_on")
-		syntax reset
-	endif
+
+hi clear
+
+if exists("syntax_on")
+  syntax reset
 endif
 
 let g:colors_name="darktango"
