@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/vctr90/programming/git/bix/GPS-Platform/content/js/include/app/views'
-let g:netrw_dirhist_2='/home/vctr90/programming/git/bix/GPS-Platform/content/js/include/app/views/team/tab-section/dashboard/report-list'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/vctr/programming/git/bixlabs/GPS-Platform/content/js/include/app/views/company-settings/model-designer/show/questionnaire-detail/disciplines/practices/footer'
+let g:netrw_dirhist_2='/home/vctr/.ssh'
+let g:netrw_dirhist_3='/home/vctr/programming/git/bixlabs/GPS-Platform/content/js/include/app/views/team'
+let g:netrw_dirhist_4='/home/vctr/programming/git/repos/sokobanJs/src'
+let g:netrw_dirhist_5='/home/vctr/programming/git/repos/sokobanJs/lib'
+let g:netrw_dirhist_6='/home/vctr/programming/git/repos/sokobanJs/src'

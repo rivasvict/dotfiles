@@ -13,6 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 " YouCompleteMePlugin
 
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'Yggdroot/indentLine'
 
 " Plugin 'plugin/YouCompleteMe/plugin/youcompleteme.vim'
 
@@ -50,10 +51,13 @@ filetype plugin indent on    " required
 set expandtab
 set shiftwidth=2
 set softtabstop=2
+set colorcolumn=120
 set hlsearch
 " set autoindent
 " set tabstop=2
 set nu
+set autoread
+set cursorline
 " colorscheme railscasts
 " colorscheme darktango
 " colorscheme sadasant
@@ -61,11 +65,19 @@ set nu
 " colorscheme vctr
 " colorscheme material
 " colorscheme wellsokai
-" FOR NORMAL ACTIVITY (HIGHT BRIGTHNESS)
-colorscheme monokai
+" FOR NORMAL ACTIVITY (HIGHT BRIGTHNESS) SUBLIME-LIKE THEME--------
+" colorscheme monokai
+colorscheme darcula
+" ---------------------------------------------------------------------------------------
+" colorscheme sky
+" colorscheme nets-away
+" colorscheme aquamarine
+" ###########################################################################################
 " FOR SPECIAL CASES (LOW BRIGTHNESS)
 " colorscheme laederon
+" colorscheme hilal
 
+" set statusline+=%{GitBranchInfoString()}
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
@@ -74,7 +86,8 @@ let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_auto_loc_list = 0
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
-let g:syntastic_javascript_checkers = ['jscs']
+let g:syntastic_javascript_checkers = ['jscs', 'jshint']
 let g:syntastic_loc_list_height=2
+syntax enable
 
 execute pathogen#infect()
