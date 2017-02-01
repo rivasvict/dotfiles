@@ -8,6 +8,10 @@ sudo apt-get -y install tmux
 sudo apt-get -y install nodejs
 sudo apt-get -y install git
 
+# Configure git
+git config --global user.name "Victor"
+git config --global user.email vctr90w@gmail.com
+
 # Dev tools
 sudo apt-get -y install npm
 sudo npm install -g nodemon
