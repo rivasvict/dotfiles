@@ -1,4 +1,0 @@
-pane	0	0	:bash	1	:*	0	:/home/vctr90/programming/git/bix/GPS-Platform	0	bash	:
-pane	0	0	:bash	1	:*	1	:/home/vctr90/programming/git/bix/GPS-Platform	1	bash	:
-window	0	0	1	:*	3b56,269x61,0,0[269x30,0,0,0,269x30,0,31,1]
-state	0	

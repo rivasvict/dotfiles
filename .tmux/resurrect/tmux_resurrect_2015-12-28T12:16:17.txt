@@ -1,5 +1,0 @@
-pane	0	0	:bash	1	:*	0	:/home/vctr90/programming/git/bix/GPS-Platform	1	bash	:
-pane	0	0	:bash	1	:*	1	:/home/vctr90/programming/git/bix/GPS-Platform	0	nanoc	:/home/vctr90/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                            
-pane	0	0	:bash	1	:*	2	:/home/vctr90/programming/git/bix/GPS-Platform	0	nanoc	:/home/vctr90/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                           
-window	0	0	1	:*	1b5c,268x73,0,0[268x62,0,0,3,268x10,0,63{134x10,0,63,1,133x10,135,63,2}]
-state	0	
