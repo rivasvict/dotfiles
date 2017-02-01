@@ -11,6 +11,8 @@ sudo apt-get -y install git
 # Dev tools
 sudo apt-get -y install npm
 sudo npm install -g nodemon
+sudo npm install -g jshint
+sudo npm install -g jscs
 
 # Clone dotfiles repo
 git clone https://github.com/vctr90/dotfiles.git
