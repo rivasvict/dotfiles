@@ -1,0 +1,9 @@
+pane	0	0	:bash	1	:*	0	:/home/victor/programming/git/bixlabs/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/victor/Hubstaff	1	bash	:
+pane	2	0	:vim	1	:!*	0	:/home/victor/programming/git/repos/telegramCourse	1	vim	:vim content/css/include/custom/widgets/divisionTrendingHealth.scss
+pane	2	0	:vim	1	:!*	1	:/home/victor/programming/git/repos/telegramCourse	0	bash	:
+pane	3	0	:bash	1	:*	0	:/home/victor	1	bash	:
+window	0	0	1	:*	7101,80x23,0,0{40x23,0,0,0,39x23,41,0,1}
+window	2	0	1	:!*	710a,80x23,0,0{40x23,0,0,2,39x23,41,0,3}
+window	3	0	1	:*	ce21,268x57,0,0,4
+state	3	

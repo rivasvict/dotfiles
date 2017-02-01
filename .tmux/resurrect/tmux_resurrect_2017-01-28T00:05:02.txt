@@ -1,0 +1,47 @@
+pane	0	0	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	0	:bash	0	:-	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	0	0	:bash	0	:-	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	1	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	1	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	1	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	1	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	12	0	:bash	1	:*	0	:/home/vctr	0	vim	:vim deploy.md
+pane	12	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	2	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/controllers/methodologyModelVerionsController.js
+pane	2	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	2	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/baasbox-1.0.0-M3-20151216-nightly	1	bash	:
+pane	2	1	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/GPS-Platform/baasbox_plugins	0	bash	:
+pane	2	1	:bash	0	:-	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	2	1	:bash	0	:-	2	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	2	1	:bash	0	:-	3	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	4	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	4	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	4	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	4	1	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	4	1	:bash	0	:-	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	5	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	5	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	5	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	5	1	:vim	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	vim	:vim src/client/app/hospital/appointment-record/appointment-record.controller.js
+pane	6	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	6	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	6	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	6	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	8	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	9	0	:bash	1	:*	0	:/home/vctr	1	bash	:
+window	0	0	0	:-	cfc9,272x75,0,0[272x46,0,0{137x46,0,0,1,134x46,138,0,2},272x28,0,47,3]
+window	0	1	1	:*	42dd,272x75,0,0{136x75,0,0,4,135x75,137,0,5}
+window	1	0	1	:*	8034,272x75,0,0[272x45,0,0,6,272x29,0,46{136x29,0,46,7,135x29,137,46,8}]
+window	12	0	1	:*	a1c6,272x75,0,0{136x75,0,0,9,135x75,137,0,10}
+window	2	0	1	:*	6cea,272x75,0,0[272x52,0,0,11,272x22,0,53{136x22,0,53,13,135x22,137,53,14}]
+window	2	1	0	:-	aee2,170x47,0,0{85x47,0,0[85x23,0,0,15,85x23,0,24,16],84x47,86,0[84x25,86,0,17,84x21,86,26,18]}
+window	4	0	1	:*	8312,272x75,0,0[272x45,0,0{136x45,0,0,19,135x45,137,0,20},272x29,0,46,21]
+window	4	1	0	:-	587d,272x75,0,0[272x36,0,0,22,272x38,0,37,23]
+window	5	0	1	:*	10eb,272x75,0,0[272x45,0,0{136x45,0,0[136x28,0,0,24,136x16,0,29,25],135x45,137,0,26},272x29,0,46,27]
+window	5	1	0	:-	e3e7,272x75,0,0,28
+window	6	0	1	:*	f0e7,272x75,0,0[272x45,0,0{136x45,0,0[136x28,0,0,29,136x16,0,29,30],135x45,137,0,31},272x29,0,46,32]
+window	8	0	1	:*	63e3,272x75,0,0,33
+window	9	0	1	:*	63e4,272x75,0,0,34
+state	2	1

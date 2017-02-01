@@ -1,0 +1,7 @@
+pane	0	0	:bash	1	:*	0	:/home/victor/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/victor/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	2	:/home/victor/programming/git/bixlabs/GPS-Platform	0	nanoc	:/home/victor/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                            
+pane	0	0	:bash	1	:*	3	:/home/victor/programming/git/bixlabs/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:/bin/bash ./baasbox-start.sh
+pane	0	0	:bash	1	:*	4	:/home/victor/programming/git/bixlabs/GPS-Platform	0	nanoc	:/home/victor/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                           
+window	0	0	1	:*	b5a8,225x55,0,0[225x44,0,0{112x44,0,0,1,112x44,113,0,5},225x6,0,45{112x6,0,45,2,112x6,113,45,3},225x3,0,52,4]
+state	0	0

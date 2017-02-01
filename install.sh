@@ -47,8 +47,25 @@ mkdir ~/programming/git/
 mkdir ~/programming/git/repos/
 mkdir ~/programming/git/bixlabs/
 
+# Install Vundle dependencies for vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+# Update YouCompleteme
+cd ~/.vim/bundle/YouCompleteMe/
+git submodule update --init --recursive
+vim +PluginInstall +qall
+
+# Recompile You complete me for vim
+sudo apt-get install -y build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 python-qt4-gl libgle3 python-dev
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:george-edison55/cmake-3.x
+sudo apt-get update
+sudo apt-get install cmake
+cd ~/.vim/bundle/YouCompleteMe
+./install.py --clang-completer
+./install.py
+
 # Move dotfiles folder into correct repos directory
-mv -fv dotfiles ~/programming/git/repos/
+mv -fv ~/dotfiles ~/programming/git/repos/
 
 # Make node name available on the path as nodejs
 sudo ln -s "$(which nodejs)" /usr/bin/node

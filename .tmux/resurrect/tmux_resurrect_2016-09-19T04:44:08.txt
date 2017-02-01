@@ -1,0 +1,6 @@
+pane	0	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/gps-baasbox	1	bash	:
+pane	0	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+window	0	0	1	:*	f800,272x71,0,0[272x56,0,0,1,272x9,0,57{136x9,0,57,3,135x9,137,57,5},272x4,0,67,4]
+state	0	

@@ -1,0 +1,7 @@
+pane	0	0	:vim	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	vim	:vim src/client/app/widgets/ccc-fileUploader.js
+pane	0	0	:vim	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	vim	:vim src/client/app/widgets/ccc-fileUploader.controller.js
+pane	0	0	:vim	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	gulp	:gulp
+pane	0	1	:vim	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	vim	:vim src/client/app/file/data-access/file-dataservice.module.js
+window	0	0	1	:*	4788,272x72,0,0[272x64,0,0{136x64,0,0,1,135x64,137,0,5},272x7,0,65,2]
+window	0	1	0	:-	bb61,272x72,0,0,4
+state	0	

@@ -1,0 +1,8 @@
+pane	0	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform/baasbox_plugins	0	bash	:
+pane	0	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	4	:/home/vctr/programming/git/bixlabs/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	0	0	:bash	1	:*	5	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+window	0	0	1	:*	532b,272x72,0,0[272x58,0,0{136x58,0,0[136x29,0,0,1,136x28,0,30,10],135x58,137,0,2},272x8,0,59{136x8,0,59,4,135x8,137,59,5},272x4,0,68,6]
+state	0	

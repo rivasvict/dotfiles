@@ -1,0 +1,48 @@
+pane	0	0	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	0	:bash	0	:-	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	0	0	:bash	0	:-	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	1	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	1	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	1	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	1	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	12	0	:bash	1	:*	0	:/home/vctr	0	vim	:vim deploy.md
+pane	12	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	2	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/views/company-settings/model-designer/show/questionnaire-detail/disciplines/right-sidebar/practices/add/show.js
+pane	2	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/models/practice.js
+pane	2	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	2	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/baasbox-1.0.0-M3-20151216-nightly	1	bash	:
+pane	2	1	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/GPS-Platform/baasbox_plugins	0	bash	:
+pane	2	1	:bash	0	:-	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	vim	:vim content/js/include/app/views/base-views/utilBaseChild.js
+pane	2	1	:bash	0	:-	2	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	2	1	:bash	0	:-	3	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	4	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	4	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	4	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	4	1	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	4	1	:bash	0	:-	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	5	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	5	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	5	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	5	1	:vim	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	vim	:vim src/client/app/hospital/appointment-record/appointment-record.controller.js
+pane	6	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	6	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	6	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	6	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	8	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	9	0	:bash	1	:*	0	:/home/vctr	1	bash	:
+window	0	0	0	:-	4fcd,272x75,0,0[272x46,0,0{137x46,0,0,2,134x46,138,0,3},272x28,0,47,4]
+window	0	1	1	:*	c2de,272x75,0,0{136x75,0,0,5,135x75,137,0,6}
+window	1	0	1	:*	0044,272x75,0,0[272x45,0,0,7,272x29,0,46{136x29,0,46,8,135x29,137,46,9}]
+window	12	0	1	:*	3521,272x75,0,0{136x75,0,0,10,135x75,137,0,11}
+window	2	0	1	:*	d729,272x75,0,0[272x64,0,0{137x64,0,0,12,134x64,138,0,13},272x10,0,65{136x10,0,65,15,135x10,137,65,16}]
+window	2	1	0	:-	571c,272x75,0,0{136x75,0,0[136x37,0,0,17,136x37,0,38,18],135x75,137,0[135x39,137,0,19,135x35,137,40,20]}
+window	4	0	1	:*	c310,272x75,0,0[272x45,0,0{136x45,0,0,21,135x45,137,0,22},272x29,0,46,23]
+window	4	1	0	:-	5880,272x75,0,0[272x36,0,0,24,272x38,0,37,25]
+window	5	0	1	:*	90ee,272x75,0,0[272x45,0,0{136x45,0,0[136x28,0,0,26,136x16,0,29,27],135x45,137,0,28},272x29,0,46,29]
+window	5	1	0	:-	63e0,272x75,0,0,30
+window	6	0	1	:*	b0e6,272x75,0,0[272x45,0,0{136x45,0,0[136x28,0,0,31,136x16,0,29,32],135x45,137,0,33},272x29,0,46,34]
+window	8	0	1	:*	63e5,272x75,0,0,35
+window	9	0	1	:*	63e6,272x75,0,0,36
+state	2	1

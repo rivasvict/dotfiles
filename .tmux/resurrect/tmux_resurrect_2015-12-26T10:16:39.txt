@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*	0	:/home/vctr90	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vctr90	0	vim	:vim .tmux.conf
+window	0	0	1	:*	1305,191x49,0,0{95x49,0,0,0,95x49,96,0,1}
+state	0	

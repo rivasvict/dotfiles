@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*	0	:/home/vctr/programming/git/repos/enrivasa	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vctr/programming/git/repos/enrivasa	1	bash	:
+window	0	0	1	:*	710a,272x75,0,0[272x62,0,0,0,272x12,0,63,1]
+state	0	

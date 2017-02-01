@@ -1,0 +1,13 @@
+pane	0	0	:bash	1	:*	0	:/home/victor/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/victor/programming/git/bixlabs/GPS-Platform/baasbox_plugins	0	bash	:
+pane	0	0	:bash	1	:*	2	:/home/victor/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	3	:/home/victor/programming/git/bixlabs/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	0	0	:bash	1	:*	4	:/home/victor/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/victor/gps-database-test/GPS-Platform	0	bash	:
+pane	1	0	:bash	1	:*	1	:/home/victor/gps-database-test/GPS-Platform/baasbox_plugins	0	bash	:
+pane	1	0	:bash	1	:*	2	:/home/victor/gps-database-test/GPS-Platform	0	bash	:
+pane	1	0	:bash	1	:*	3	:/home/victor/gps-database-test/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	1	0	:bash	1	:*	4	:/home/victor/gps-database-test/GPS-Platform	1	bash	:
+window	0	0	1	:*	29e2,269x60,0,0[269x52,0,0{134x52,0,0,5,134x52,135,0,6},269x4,0,53{133x4,0,53,7,135x4,134,53,8},269x2,0,58,9]
+window	1	0	1	:*	67cd,269x60,0,0[269x30,0,0{134x30,0,0,11,134x30,135,0,12},269x14,0,31{134x14,0,31,13,134x14,135,31,14},269x14,0,46,15]
+state	0	0

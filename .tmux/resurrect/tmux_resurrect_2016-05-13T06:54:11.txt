@@ -1,0 +1,17 @@
+pane	0	0	:bash	1	:*	0	:/home/victor/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/controllers/teamController.js
+pane	0	0	:bash	1	:*	1	:/home/victor/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/util/util.js
+pane	0	0	:bash	1	:*	2	:/home/victor/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/controllers/initializationController.js
+pane	0	0	:bash	1	:*	3	:/home/victor/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	4	:/home/victor/programming/git/bixlabs/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	0	0	:bash	1	:*	5	:/home/victor/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	0	1	:bash	0	:-	0	:/home/victor/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	0	1	:bash	0	:-	1	:/home/victor/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	1	0	:bash	1	:*	0	:/home/victor/gps-database-test/GPS-Platform	1	bash	:
+pane	3	0	:bash	1	:*	0	:/home/victor/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/victor/Downloads	1	bash	:
+window	0	0	1	:*	9b85,268x60,0,0[268x54,0,0{134x54,0,0,1,133x54,135,0[133x27,135,0,10,133x26,135,28,11]},268x2,0,55{134x2,0,55,2,133x2,135,55,3},268x2,0,58,4]
+window	0	1	0	:-	30fc,268x60,0,0{134x60,0,0,5,133x60,135,0,6}
+window	1	0	1	:*	c224,268x73,0,0,7
+window	3	0	1	:*	c225,268x73,0,0,8
+window	5	0	1	:*	c226,268x73,0,0,9
+state	0	0

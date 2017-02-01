@@ -1,0 +1,9 @@
+pane	0	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	0	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	0	1	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/GPS-Platform/baasbox_plugins	1	bash	:
+pane	2	0	:[tmux]	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	ssh	:ssh root@stage-icc.activecolor.com
+window	0	0	1	:*	c04c,272x72,0,0[272x57,0,0,0,272x14,0,58{136x14,0,58,1,135x14,137,58,2}]
+window	0	1	0	:-	bb60,272x72,0,0,3
+window	2	0	1	:*	bb64,272x72,0,0,7
+state	2	

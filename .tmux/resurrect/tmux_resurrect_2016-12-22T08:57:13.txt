@@ -1,0 +1,13 @@
+pane	0	0	:vim	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	vim	:vim src/client/app/patient-appointment/report-info/report-info.html
+pane	0	0	:vim	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	vim	:vim src/client/styles/styles.less
+pane	0	0	:vim	1	:*	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	1	:bash	0	:-	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	0	1	:bash	0	:-	1	:/home/vctr/Desktop	1	bash	:
+pane	0	1	:bash	0	:-	2	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+pane	1	0	:gulp	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	1	0	:gulp	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	1	0	:gulp	1	:*	2	:/home/vctr/programming/git/bixlabs/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+window	0	0	1	:*	ad4d,272x75,0,0[272x66,0,0{136x66,0,0,2,135x66,137,0,3},272x8,0,67,4]
+window	0	1	0	:-	f73d,272x75,0,0{136x75,0,0[136x37,0,0,5,136x37,0,38,6],135x75,137,0,7}
+window	1	0	1	:*	0c34,272x75,0,0[272x46,0,0,8,272x28,0,47{136x28,0,47,9,135x28,137,47,10}]
+state	0	1

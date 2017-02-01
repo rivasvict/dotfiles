@@ -1,0 +1,5 @@
+pane	0	0	:vim	1	:*	0	:/home/victor/programming/git/repos/enrivasa	1	vim	:vim public/javascripts/sections/main/directives/dom_handler.js
+pane	0	0	:vim	1	:*	1	:/home/victor/programming/git/repos/enrivasa	0	bash	:
+pane	0	0	:vim	1	:*	2	:/home/victor/programming/git/repos/enrivasa	0	node	:node /usr/local/bin/nodemon bin/www
+window	0	0	1	:*	4569,269x60,0,0[269x50,0,0{134x50,0,0,0,134x50,135,0,2},269x9,0,51,1]
+state	0	

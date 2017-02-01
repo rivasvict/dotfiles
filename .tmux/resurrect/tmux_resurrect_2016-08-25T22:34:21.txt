@@ -1,0 +1,5 @@
+pane	0	0	:vim	1	:*	0	:/home/vctr90/programming/git/repos/enrivasa	1	vim	:vim public/stylesheets/productPreviewStyle.css
+pane	0	0	:vim	1	:*	1	:/home/vctr90/programming/git/repos/enrivasa	0	vim	:vim views/tpl/sierOrb.jade
+pane	0	0	:vim	1	:*	2	:/home/vctr90/programming/git/repos/enrivasa	0	node	:node /usr/local/bin/nodemon bin/www
+window	0	0	1	:*	9898,270x72,0,0[270x60,0,0{135x60,0,0,0,134x60,136,0,2},270x11,0,61,1]
+state	0	

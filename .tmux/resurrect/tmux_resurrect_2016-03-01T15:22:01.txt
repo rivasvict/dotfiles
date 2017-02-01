@@ -1,0 +1,8 @@
+pane	0	0	:bash	1	:*	0	:/home/vctr90/programming/git/bix/GPS-Platform	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vctr90/programming/git/bix/GPS-Platform	0	nanoc	:/home/vctr90/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                            
+pane	0	0	:bash	1	:*	2	:/home/vctr90/programming/git/bix/GPS-Platform	0	nanoc	:/home/vctr90/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                           
+pane	0	1	:bash	0	:-	0	:/home/vctr90/programming/git/bix/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	java	:java -Dparsers.text.maxLength=1000M -Dws.timeout.request=20000 -Dws.timeout.connection=120000 -Dws.timeout.idle=120000 -cp ./lib/* play.core.server.NettyServer .
+pane	0	1	:bash	0	:-	1	:/home/vctr90/programming/git/bix/GPS-Platform	1	bash	:
+window	0	0	1	:*	d73d,269x61,0,0[269x51,0,0,2,269x9,0,52{134x9,0,52,3,134x9,135,52,4}]
+window	0	1	0	:-	c58c,269x61,0,0{134x61,0,0,5,134x61,135,0,6}
+state	0	0

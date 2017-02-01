@@ -1,0 +1,11 @@
+pane	0	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/GPS-Platform/baasbox_plugins	0	bash	:
+pane	0	0	:bash	1	:*	2	:/home/vctr/programming/git/bixlabs/GPS-Platform/baasbox_plugins	0	bash	:
+pane	0	0	:bash	1	:*	3	:/home/vctr/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	0	0	:bash	1	:*	4	:/home/vctr/programming/git/bixlabs/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:
+pane	0	0	:bash	1	:*	5	:/home/vctr/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/vctr/programming/git/bixlabs/ccc-webapp	1	bash	:
+pane	1	0	:bash	1	:*	1	:/home/vctr/programming/git/bixlabs/ccc-webapp	0	bash	:
+window	0	0	1	:*	2032,272x75,0,0[272x37,0,0{136x37,0,0,1,135x37,137,0[135x18,137,0,2,135x18,137,19,8]},272x18,0,38{136x18,0,38,3,135x18,137,38,4},272x18,0,57,5]
+window	1	0	1	:*	ef99,272x75,0,0[272x46,0,0,6,272x28,0,47,7]
+state	0	1

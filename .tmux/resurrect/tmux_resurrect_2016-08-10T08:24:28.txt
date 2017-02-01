@@ -1,0 +1,18 @@
+pane	0	0	:vim	1	:*	0	:/home/victor/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/util/util.js
+pane	0	0	:vim	1	:*	1	:/home/victor/programming/git/bixlabs/GPS-Platform	1	vim	:vim content/js/include/app/models/assessment.js
+pane	0	0	:vim	1	:*	2	:/home/victor/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/views/division/dashboard/trending-health/card-widget/single-card/indexes/show.js
+pane	0	0	:vim	1	:*	3	:/home/victor/programming/git/bixlabs/GPS-Platform	0	vim	:vim content/js/include/app/models/team.js
+pane	0	0	:vim	1	:*	4	:/home/victor/programming/git/bixlabs/GPS-Platform	0	nanoc	:/home/victor/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                            
+pane	0	0	:vim	1	:*	5	:/home/victor/programming/git/bixlabs/gps-baasbox/baasbox-1.0.0-M3-20151216-nightly	0	bash	:/bin/bash ./baasbox-start.sh
+pane	0	0	:vim	1	:*	6	:/home/victor/programming/git/bixlabs/GPS-Platform	0	nanoc	:/home/victor/.rvm/gems/ruby-1.9.3-p551/bin/nanoc                                                                           
+pane	0	0	:vim	1	:*	7	:/home/victor/Hubstaff	0	./HubstaffClient.bin.x86_64	:./HubstaffClient.bin.x86_64
+pane	0	1	:bash	0	:-	0	:/home/victor/programming/git/bixlabs/GPS-Platform	1	vim	:vim content/js/include/app/views/team/tab-section/
+pane	0	1	:bash	0	:-	1	:/home/victor/programming/git/bixlabs/GPS-Platform	0	bash	:
+pane	1	0	:bash	1	:*	0	:/home/victor/programming/git/bixlabs/GPS-Platform	1	bash	:
+pane	2	0	:vim	1	:!*	0	:/home/victor/programming/git/repos/telegramCourse	1	vim	:vim euler1.js
+pane	2	0	:vim	1	:!*	1	:/home/victor/programming/git/repos/telegramCourse	0	bash	:
+window	0	0	1	:*	26c8,268x73,0,0[268x53,0,0{134x53,0,0[134x23,0,0,1,134x29,0,24,2],133x53,135,0[133x23,135,0,3,133x29,135,24,4]},268x11,0,54{134x11,0,54,5,133x11,135,54,6},268x7,0,66{133x7,0,66,7,134x7,134,66,8}]
+window	0	1	0	:-	40b6,268x73,0,0{134x73,0,0,9,133x73,135,0,10}
+window	1	0	1	:*	6140,268x73,0,0,11
+window	2	0	1	:!*	0052,268x73,0,0{134x73,0,0,12,133x73,135,0,13}
+state	0	0
