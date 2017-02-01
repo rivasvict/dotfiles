@@ -3,13 +3,13 @@
 sudo apt-get update
 
 # Install basic stuff
-sudo apt-get install vim
-sudo apt-get install tmux
-sudo apt-get install nodejs
-sudo apt-get install git
+sudo apt-get -y install vim
+sudo apt-get -y install tmux
+sudo apt-get -y install nodejs
+sudo apt-get -y install git
 
 # Dev tools
-sudo apt-get install npm
+sudo apt-get -y install npm
 sudo npm install -g nodemon
 
 # Clone dotfiles repo
